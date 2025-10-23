@@ -1,5 +1,5 @@
 {
-  "name": "Generative PFP Editor",
+  "name": "PUF PFP Generator",
   "description": "An application that allows users to upload a photo and use text prompts to edit it using the Gemini 2.5 Flash Image model, creating unique profile pictures.",
   "requestFramePermissions": []
 }
